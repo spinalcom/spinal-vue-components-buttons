@@ -1,0 +1,16 @@
+{
+  "name": "spinal-vue-components-buttons",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue", "components library"],
+  "author": "SpinalCom",
+  "license": "SpinalCom",
+  "depenedecies":{
+    "vue": "^2.5.17",
+    "vue-material": "^1.0.0-beta-10.2"
+  }
+}
